@@ -18,11 +18,14 @@ File List 
   -Orangutan_Sighting.csv
     Contains data of orangutan sightings with the year it was spotted
     
+
 Findings
+
 There is an inverse relationship between forest cover and orangutan sightings.
 
 Contributors
--Yuji Numata
+
+Yuji Numata
 
 References
 
