@@ -23,10 +23,6 @@ Findings
 
 There is an inverse relationship between forest cover and orangutan sightings.
 
-Contributors
-
-Yuji Numata
-
 References
 
 -The indonesia.geojson was found through:https://github.com/superpikar/indonesia-geojson
@@ -36,3 +32,6 @@ References
 -The Sumatra_processed_forest_data.csv was found through:https://zenodo.org/records/13864030
 
 -The lat and long of the villages were found using Google
+
+Contributors
+-Yuji Numata
